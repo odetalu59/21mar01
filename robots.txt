@@ -1,0 +1,24 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.enterana.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/viral4d.html/sitemap.xml
+Sitemap: https://ftp.enterana.com/playground88.html/sitemap.xml
